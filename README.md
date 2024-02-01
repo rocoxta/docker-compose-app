@@ -1,6 +1,6 @@
 # Projeto docker-compose-app
 
-Este projeto é constituído por três contêineres: frontend, backend e um banco de dados MongoDB. Ele usa o Docker para simplificar tanto a configuração quanto a execução, proporcionando uma abordagem mais eficiente e fácil de gerenciar.
+Este projeto é constituído por três contêineres Docker: frontend, backend e um banco de dados MongoDB. Esses elementos se unem para criar uma aplicação web integrada e eficiente.
 
 ## Requisitos
 - [Docker](https://www.docker.com/get-started/)
