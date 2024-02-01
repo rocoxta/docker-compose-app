@@ -84,16 +84,12 @@ Os serviços incluem:
 - Backend: http://localhost:3001
 - Banco de dados MongoDB: mongodb://localhost:27017/vidly
 
-### Variáveis de Ambiente
-- DB_URL: URL de conexão com o banco de dados. (Padrão: mongodb://db/vidly)
-
-### Encerrando
-- Para parar a execução dos serviços, pressione Ctrl+C no terminal onde o Docker Compose está em execução.
-
 ### Notas
 
 - Certifique-se de que as portas 3000, 3001 e 27017 não estejam sendo utilizadas por outros serviços.
 - As imagens Docker serão construídas automaticamente durante a primeira execução do Docker Compose.
+- Para parar a execução dos serviços, pressione Ctrl+C no terminal onde o Docker Compose está em execução.
+- DB_URL: URL de conexão com o banco de dados. (Padrão: mongodb://db/vidly)
 
 ## Referências
 - [Docker Install](https://docs.docker.com/engine/install/)
