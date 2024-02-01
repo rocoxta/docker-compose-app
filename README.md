@@ -95,7 +95,6 @@ Os serviços incluem:
 - Certifique-se de que as portas 3000, 3001 e 27017 não estejam sendo utilizadas por outros serviços no seu sistema.
 - As imagens Docker serão construídas automaticamente durante a primeira execução do Docker Compose.
 - Este projeto utiliza volumes Docker para persistência de dados do MongoDB.
-- Sinta-se à vontade para adaptar ou expandir este arquivo README conforme necessário para o seu ambiente específico.
 
 ## Referências
 - [Docker Install](https://docs.docker.com/engine/install/)
