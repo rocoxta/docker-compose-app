@@ -76,7 +76,6 @@ Os serviços incluem:
 - frontend: Aplicação frontend na porta 3000.
 - backend: Servidor backend na porta 3001.
 - db: Banco de dados MongoDB na porta 27017.
-- O frontend depende do backend e o backend depende do banco de dados.
 
 ## Acesso
 
